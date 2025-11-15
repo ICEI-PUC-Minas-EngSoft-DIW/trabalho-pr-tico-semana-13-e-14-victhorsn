@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🎥 Cadastro de Filmes</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>🎞️ Cadastro de Filmes</h1>
+    <nav>
+      <a href="index.html" class="btn">⬅ Voltar</a>
+    </nav>
+  </header>
+
+  <section class="form-section">
+    <form id="form-filme">
+      <input type="hidden" id="id" />
+
+      <label for="titulo">Título</label>
+      <input type="text" id="titulo" placeholder="Título do filme" required />
+
+      <label for="data">Data de lançamento</label>
+      <input type="date" id="data" required />
+
+      <label for="imagem">URL da imagem</label>
+      <input type="url" id="imagem" placeholder="https://..." required />
+
+      <label for="descricao">Descrição</label>
+      <textarea id="descricao" rows="4" placeholder="Sinopse do filme" required></textarea>
+
+      <button type="submit" class="btn">Salvar Filme</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>Desenvolvido por Victhor Guilherme — 2025</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
