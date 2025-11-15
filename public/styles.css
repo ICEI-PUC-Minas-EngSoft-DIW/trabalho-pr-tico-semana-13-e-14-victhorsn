@@ -143,3 +143,35 @@ footer {
   color: #aaa;
   font-size: 0.9rem;
 }
+
+header {
+    background: #222;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.subtitle {
+    opacity: 0.7;
+    margin-top: 5px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.15);
+}
+
+.btn-info {
+  background: #008cff;
+}
+.btn-info:hover {
+  background: #1ba0ff;
+}

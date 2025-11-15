@@ -5,49 +5,64 @@
       "titulo": "Super Mario Bros – O Filme 2",
       "data": "2026-04-03",
       "imagem": "https://imgs.search.brave.com/8505312vk93Qash_d6Fm7eQleKNEHEwG84vkcyvudV0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE1LzJh/LzZmLzE1MmE2ZjQ5/MjAyYzgyZGFkOWJl/OGJiNTkzYTFhNDA3/LmpwZw",
-      "descricao": "Mario e Luigi retornam em uma nova aventura para salvar o Reino dos Cogumelos."
+      "descricao": "Mario e Luigi retornam em uma nova aventura para salvar o Reino dos Cogumelos.",
+      "genero": "Animação"
     },
     {
       "id": "2",
       "titulo": "Toy Story 5",
       "data": "2026-06-18",
       "imagem": "https://imgs.search.brave.com/6VA9L2eoE50a61AEa5eARI9vklVS4rSc0vQpjaLx4Sg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvcHQvdGh1bWIv/OC84YS9Ub3lfU3Rv/cnlfNS5qcGcvNTEy/cHgtVG95X1N0b3J5/XzUuanBn",
-      "descricao": "Woody, Buzz e toda a turma estão de volta para novas aventuras emocionantes."
+      "descricao": "Woody, Buzz e toda a turma estão de volta para novas aventuras emocionantes.",
+      "genero": "Animação"
     },
     {
       "id": "3",
       "titulo": "Avatar - Fogo e Cinzas",
       "data": "2025-12-18",
       "imagem": "https://imgs.search.brave.com/QPfx7qAEptVjzgf274YceW_jkJGyOS1eGdtb4hvh_j8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvcHQvdGh1bWIv/ZC9kNS9BdmF0YXJf/RmlyZV9hbmRfQXNo/LndlYnAvNTEycHgt/QXZhdGFyX0ZpcmVf/YW5kX0FzaC53ZWJw/LnBuZw",
-      "descricao": "Avatar: Fogo e Cinzas retorna para Pandora numa nova aventura envolvente com a família Sully. A trama mergulha no coração do bioma volumoso e biodiverso da região vulcânica de Pandora, onde a sobrevivência depende do fogo. Após a devastadora guerra contra a RDA e a perda do seu filho mais velho, Jake Sully (Sam Worthington) e Neytiri (Zoe Saldana) devem enfrentar uma nova ameaça: o Povo das Cinzas, uma nova e agressiva tribo Na’vi, conhecida por sua violência extrema e sede de poder, liderada pelo implacável Varang (Oona Chaplin). O misterioso clã é composto por guerreiros que controlam o fogo e cuja lealdade pode desequilibrar o destino do planeta."
+      "descricao": "Nova aventura na região vulcânica de Pandora, onde o fogo domina a sobrevivência.",
+      "genero": "Ficção Científica"
     },
     {
       "id": "4095",
       "titulo": "Homem-Aranha - Um Novo Dia",
       "data": "2026-07-30",
       "imagem": "https://imgs.search.brave.com/UltaBHD5asqJO7ey40NWduT1RUYf3ukgn56Bh0e_9zA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVtb3ZpZWRi/Lm9yZy90L3AvdzUz/M19hbmRfaDMwMF9i/ZXN0djIvNjNKWXFo/ZWZHcmJWZzBZcVoz/eFdxbjBwd1QyLmpw/Zw",
-      "descricao": "Em Homem-Aranha: Um Novo Dia, Peter Parker (Tom Holland) está completamente focado em sua vida acadêmica, almejando viver uma vida comum com o pessoal da sua faculdade e longe dos ‘’perigos’’ oferecidos pelo amigão da vizinhança. No entanto, um ataque inesperado coloca em risco a vida de seus amigos e Peter é obrigado a colocar o seu traje especial para salvar aqueles que ama."
+      "descricao": "Peter Parker tenta equilibrar a vida normal com novas ameaças.",
+      "genero": "Ação"
     },
     {
       "id": "194e",
       "titulo": "Minions 3",
       "data": "2026-07-01",
       "imagem": "https://imgs.search.brave.com/dlsQIR7dtRzLw_Mu9_bHFYzxZNZii_Sc_dRp8ghQ744/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVtb3ZpZWRi/Lm9yZy90L3AvdzUz/M19hbmRfaDMwMF9i/ZXN0djIveGdFcDlG/UHlObnZocHFYTVhG/VXdWS2lvUUJZLmpw/Zw",
-      "descricao": "Poucos detalhes sobre a sequência foram divulgados até o momento, contudo, de acordo com a revista Variety, Brian Lynch ('Minions' e 'Pets: A Vida Secreta dos Bichos') é o responsável pelo roteiro do filme, dirigido pelo indicado ao Oscar e \"pai\" dos Minions, Pierre Coffin. A continuação será produzida pelo fundador e CEO da Illumination, Chris Meledandri, e por Bill Ryan ('Super Mario Bros.- O Filme')."
+      "descricao": "A continuação da franquia Minions, dirigida por Pierre Coffin.",
+      "genero": "Comédia"
     },
     {
       "id": "5",
       "titulo": "Vingadores: Doomsday",
       "data": "2026-05-01",
       "imagem": "https://imgs.search.brave.com/-Erfaz0ptzuvqHQJxTT5_Lwu-hOz5P6pGdZnGs66sRI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWRzLmpvdmVtbmVy/ZC5jb20uYnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDMv/dmluZ2Fkb3Jlc19k/b29tc2RheV9lbGVu/Y29fZmlsbWVfbWFy/dmVsX21jdV9fd3Fm/czIxLmpwZz9pbXM9/MTIxMHg1NDQvZmls/dGVyczpxdWFsaXR5/KDc1KQ",
-      "descricao": "O confronto épico final dos Vingadores contra um novo inimigo cósmico, marcando o encerramento de uma era no Universo Cinematográfico Marvel."
+      "descricao": "Confronto final dos Vingadores contra uma nova ameaça cósmica.",
+      "genero": "Ação"
     },
     {
       "id": "142a",
       "titulo": "Supergirl",
       "data": "2026-06-26",
       "imagem": "https://imgs.search.brave.com/kOPIpguKmtHv7ercyi3VeXfra3a_9bkwADV7nKdcy_g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpHTTRNelkz/TnpZdFlqVmlaUzAw/TW1FNExUZ3habU10/TlRaa05ETTVNREl3/TURnMVhrRXlYa0Zx/Y0djQC5qcGc",
-      "descricao": "O filme Supergirl, previsto para lançamento em 26 de junho de 2026 nos Estados Unidos, é o segundo longa-metragem do novo Universo DC (DCU), dirigido por Craig Gillespie e com roteiro de Ana Nogueira.\n O filme será produzido por James Gunn e Peter Safran pela DC Studios e distribuído pela Warner Bros. Pictures.\n A trama acompanha Kara Zor-El, a prima de Clark Kent / Superman, em sua jornada pelo universo após comemorar seu 21º aniversário com seu cachorro Krypto, quando se depara com uma tragédia que a leva a uma \"busca assassina por vingança\""
+      "descricao": "Kara Zor-El enfrenta uma tragédia e começa uma jornada perigosa pelo universo.",
+      "genero": "Ação"
+    },
+    {
+      "id": "ba3d",
+      "titulo": "lalalalalala",
+      "data": "10101-01-10",
+      "imagem": "https://www.amazon.com.br/super-mario-bros/s?k=super+mario+bros",
+      "descricao": "lalalalalala",
+      "genero": "Desconhecido"
     }
   ]
 }
