@@ -8,15 +8,19 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Victhor Guilherme Santos Loiola
+- Matricula: 903255
+- Proposta de projeto escolhida: CRUD com JSON Server (Filmes)
+- Breve descrição sobre seu projeto: O projeto tem como objetivo desenvolver uma aplicação web que realiza o gerenciamento de filmes, permitindo o cadastro, listagem, edição e exclusão de informações utilizando o JSON Server como backend simulado.
+A interface foi construída com HTML, CSS e JavaScript, aplicando o conceito de consumo dinâmico de dados via fetch(), simulando o funcionamento de um sistema real com API REST.
+Além disso, o projeto apresenta uma interface moderna e intuitiva, permitindo visualizar as capas dos filmes, seus títulos, descrições e demais detalhes de forma prática e interativa. 
 
 **Print da tela com a implementação**
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+![FILMES1](https://github.com/user-attachments/assets/6b2eda8e-9620-4ff4-bf8f-8f606ae6a275)
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+
+![FILMES2](https://github.com/user-attachments/assets/402da1b0-afec-4728-9f33-b132b89df688)
+
