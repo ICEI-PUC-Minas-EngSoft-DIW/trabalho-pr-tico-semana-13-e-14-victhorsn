@@ -19,6 +19,8 @@ Além disso, o projeto apresenta uma interface moderna e intuitiva, permitindo v
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+![FILMES1](https://github.com/user-attachments/assets/6b2eda8e-9620-4ff4-bf8f-8f606ae6a275)
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+
+![FILMES2](https://github.com/user-attachments/assets/402da1b0-afec-4728-9f33-b132b89df688)
+
