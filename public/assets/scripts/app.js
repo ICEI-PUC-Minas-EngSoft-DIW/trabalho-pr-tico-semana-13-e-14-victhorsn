@@ -120,5 +120,8 @@ async function carregarDetalhes() {
   `;
 }
 
+document.getElementById("graficoFilmes")
+
+
 carregarFilmes();
 carregarDetalhes();

@@ -1,34 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>📊 Análise de Dados</title>
-  <link rel="stylesheet" href="styles.css">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
+  <meta charset="UTF-8" />
+  <title>Visualização de Filmes</title>
 
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
 <body>
 
-<header>
-  <h1>📊 Análise dos Filmes</h1>
-  <nav>
-    <a href="index.html" class="btn">⬅ Voltar</a>
-  </nav>
-</header>
+  <h1>Gráfico de Filmes por Gênero</h1>
 
-<div class="container">
-  <div class="card">
-    <h2>Filmes por Ano</h2>
-    <canvas id="graficoAno"></canvas>
-  </div>
+  <canvas id="graficoFilmes"></canvas>
 
-  <div class="card">
-    <h2>Filmes por Gênero</h2>
-    <canvas id="graficoGenero"></canvas>
-  </div>
-</div>
-
-<script src="visualizacao.js"></script>
+  <script src="visualizacao.js"></script>
 </body>
 </html>
